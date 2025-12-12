@@ -1,0 +1,10 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+pydantic==1.10.12
+transformers==4.30.0
+sentence-transformers==2.2.2
+torch==2.2.0
+numpy
+scipy
+joblib
+lightgbm
